@@ -1,3 +1,4 @@
+
 # fintech_1.3
 # fintech_1.3
 
@@ -14,3 +15,5 @@ To grow in my coding skills and ability to manage large sets of data.  I want to
 Why did you choose FinTech as a career path?
 
 It seems to have chosen me.  I was not aware this even existed.
+
+New changes 11am 10.24.20
